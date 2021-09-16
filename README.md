@@ -1,2 +1,3 @@
-# DataStructuresPractice
-Sample code for different data structures. 
+# Data Structures 
+
+Practice code for Data Structures, this is merely a review of data structures. 
